@@ -47,3 +47,8 @@
         }
     }
 }
+
+// this makes sure that we dont have oversised images in the content.
+img {
+    width: 100%;
+}
